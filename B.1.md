@@ -1,12 +1,14 @@
 Exercise B.1. 
 Read the Wikipedia page on Big-Oh notation at https://en.wikipedia.org/wiki/Big_O_notation and answer the following questions:
 
-1. What is the order of growth of n3 + n2? What about 1000000n3 + n2? What about n3 + 1000000n2?
+** 1. What is the order of growth of n3 + n2? What about 1000000n3 + n2? What about n3 + 1000000n2?
+
 O(n3)
 
 Ref. https://slidetodoc.com/order-of-growth-suppose-you-have-analyzed-two/
 
 2. What is the order of growth of (n2 + n) · (n + 1)? Before you start multiplying, remember that you only need the leading term.
+
 O(n3)
 
 Ref. https://slidetodoc.com/order-of-growth-suppose-you-have-analyzed-two/
