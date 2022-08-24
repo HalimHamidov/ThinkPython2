@@ -42,3 +42,14 @@ O(g*h)
 Ref.Wiki
 
 ***
+
+More info"
+
+4.1   Analysis of Algorithms
+
+Order of growth classifications. We use just a few structural primitives (statements, conditionals, loops, and method calls) to build  programs, so very often the order of growth of our programs is one of just a few functions of the problem size, summarized in the table below.
+
+Look at the  table
+
+https://introcs.cs.princeton.edu/java/41analysis/
+
