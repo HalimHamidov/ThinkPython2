@@ -53,3 +53,9 @@ Look at the  table
 
 https://introcs.cs.princeton.edu/java/41analysis/
 
+___________
+
+What is a plain English explanation of "Big O" notation?
+
+https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation?rq=1
+
