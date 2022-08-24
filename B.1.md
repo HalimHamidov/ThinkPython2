@@ -62,3 +62,10 @@ https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-o
 BigOh complexity can be visualized with this graph:
 
 ___________
+
+Some other exercises from stackoverflow:
+
+Order of growth according to Big-O Notation [duplicate]
+
+Ref. https://stackoverflow.com/questions/52248927/order-of-growth-according-to-big-o-notation
+
