@@ -28,3 +28,10 @@ def estimate_pi():
 
 print("este_pi is", estimate_pi())
 print("real_pi is",math.pi)
+
+''' 
+https://www.w3schools.com/python/ref_math_pi.asp
+https://greenteapress.com/thinkpython2/code/pi.py
+https://en.wikipedia.org/wiki/Pi
+https://stackoverflow.com/questions/48129332/exercise-7-3-think-python-book
+'''
